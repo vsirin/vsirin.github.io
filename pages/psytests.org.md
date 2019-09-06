@@ -6,3 +6,5 @@
 [Восьмицветовой тест Люшера](https://psytests.org/result?v=lus1fCIxTAm)
 
 [Полный тест Люшера](https://psytests.org/result?v=lus1FXRDUl08EUBTAk)
+
+[Тест Сонди / Метод портретных выборов](https://psytests.org/result?v=szn1BGti3UmJbo8aLDp)
